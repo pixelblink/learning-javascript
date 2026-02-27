@@ -80,5 +80,6 @@ console.log(stu);
 
 stu.splice(2,0,"orange")
 console.log(stu)
+// hello
 
 
