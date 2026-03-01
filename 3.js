@@ -82,3 +82,4 @@ stu.splice(2,0,"orange")
 console.log(stu)
 
 
+
